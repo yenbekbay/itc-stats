@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "extends": "standard",
+  "rules": {
+    "semi": [2, "always"],
+    "no-extra-semi": 2,
+    "semi-spacing": [2, { "before": false, "after": true }],
+    "max-len": [2, 80, 2],
+    "prefer-arrow-callback": 2,
+    "arrow-parens": [2, "as-needed"],
+    "space-before-function-paren": [2, "never"]
+  }
+}
