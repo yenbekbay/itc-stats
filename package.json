@@ -1,6 +1,7 @@
 {
   "name": "itc-stats",
   "version": "0.1.0",
+  "private": true,
   "description": "A BitBar plugin that shows statistics for your iOS and OS X apps",
   "main": "./index.js",
   "keywords": [
