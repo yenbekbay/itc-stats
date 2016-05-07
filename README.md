@@ -1,5 +1,5 @@
 # itc-stats
-**A BitBar plugin that shows statistics for your iOS and OS X apps**
+**A [BitBar](https://github.com/matryer/bitbar) plugin that shows statistics for your iOS and OS X apps**
 
 [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
