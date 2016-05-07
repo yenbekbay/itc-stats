@@ -1,9 +1,7 @@
 # itc-stats
 **A BitBar plugin that shows statistics for your iOS and OS X apps**
 
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url]  [![Dependency Status][daviddm-image]][daviddm-url]
-
-[![NodeICO][nodeico-image]][nodeico-url]
+[![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
 <img width="500" alt="itc-stats demo" src="demo.png"/>
 
@@ -36,15 +34,8 @@ ln -s <path-to-itc-stats>/index.js <path-to-bitbar-plugins>/itc-stats.1d.js
 MIT © [Ayan Yenbekbay](http://yenbekbay.me)
 
 
-[downloads-image]: https://img.shields.io/npm/dm/itc-stats.svg
-[npm-url]: https://www.npmjs.com/package/itc-stats
-[npm-image]: https://img.shields.io/npm/v/itc-stats.svg
-
 [travis-url]: https://travis-ci.org/yenbekbay/itc-stats
 [travis-image]: https://img.shields.io/travis/yenbekbay/itc-stats.svg
 
 [daviddm-image]: https://david-dm.org/yenbekbay/itc-stats.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/yenbekbay/itc-stats
-
-[nodeico-url]: https://nodei.co/npm/itc-stats
-[nodeico-image]: https://nodei.co/npm/itc-stats.png?downloads=true&downloadRank=true
